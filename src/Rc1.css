@@ -1,0 +1,19 @@
+.name {
+  color: blue;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.main {
+  background-color: #ccc;
+  padding: 20px 20px;
+  border-top: 4px solid #444;
+  border-bottom: 1px solid #666;
+  border-right: 1px solid #666;
+  border-left: 1px solid #666;
+  margin-bottom: 25px;
+  width: 40%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
